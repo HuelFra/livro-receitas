@@ -1,7 +1,9 @@
 #Livro de Receitas :woman_cook:
 
-Olá! Bem vindo ao meu livro de receitas
+Olá! Bem vindo(A) ao meu livro de receitas
 
 
  - Strogonoff de Frango​ :chicken:
- - Pavê :chocolate_bar:
+ - Pavê   <img src="C:\Users\Samsung\Desktop\workspace\pave.jpg" style="zoom:25%;" />
+ - Bolo de Cenoura :carrot:
+
